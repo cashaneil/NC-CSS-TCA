@@ -2,7 +2,7 @@
     "movies": [
         {
             "id": 1,
-            "title": "Disney",
+            "title": "Frozen",
             "genre": "Animation",
             "price": "7.99",
             "runtime": "102 mins",
